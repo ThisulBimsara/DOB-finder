@@ -62,7 +62,7 @@ tk.Label(root, text="What is your name?").pack(pady=5)
 name_entry = tk.Entry(root)
 name_entry.pack(pady=5)
 
-tk.Label(root, text="Type your NIC (10 or 12 characters):").pack(pady=5)
+tk.Label(root, text="Type your NIC?").pack(pady=5)
 nic_entry = tk.Entry(root)
 nic_entry.pack(pady=5)
 
